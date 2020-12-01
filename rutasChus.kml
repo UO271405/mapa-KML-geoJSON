@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Folder>
+         <name>Ruta por Oviedo</name>
+         <description>Ruta a los lugares más importantes de Oviedo</description>
+         <Placemark>
+            <name>Oviedo</name>
+            <Point>
+               <coordinates>-5.850833333333333,43.3613889,232</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Teatro Campoamor</name>
+            <description/>
+            <Point>
+               <coordinates>-5.8475,43.3627778,232</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Catedral de Oviedo</name>
+            <description/>
+            <Point>
+               <coordinates>-5.843611111111111,43.3622222,232</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ayuntamiento de Oviedo</name>
+            <description/>
+            <Point>
+               <coordinates>-5.844444444444444,43.3602778,232</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por Oviedo</name>
+            <LineString>
+               <coordinates>-5.850833333333333,43.3613889,232	-5.8475,43.3627778,232	-5.843611111111111,43.3622222,232	-5.844444444444444,43.3602778,232	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta por Gijón</name>
+         <description>Ruta por algunos de los lugares característicos de Gijón</description>
+         <Placemark>
+            <name>Estadio El Molinón</name>
+            <Point>
+               <coordinates>-5.636944444444444,43.5358333,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Estadio El Molinón</name>
+            <description/>
+            <Point>
+               <coordinates>-5.636944444444444,43.5358333,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>La Escalerona</name>
+            <description/>
+            <Point>
+               <coordinates>-5.659166666666667,43.5419444,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Teatro Jovellanos</name>
+            <description/>
+            <Point>
+               <coordinates>-5.661111111111111,43.5391667,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Museo del ferrocarril de Asturias</name>
+            <description/>
+            <Point>
+               <coordinates>-5.6725,43.5405556,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por Gijón</name>
+            <LineString>
+               <coordinates>-5.636944444444444,43.5358333,3	-5.636944444444444,43.5358333,3	-5.659166666666667,43.5419444,3	-5.661111111111111,43.5391667,3	-5.6725,43.5405556,3	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta Desfiladero de los Arrudos</name>
+         <description>Ruta por el Desfiladero de los Arrudos, ubicado en el Parque Natural de Redes</description>
+         <Placemark>
+            <name>Caleao</name>
+            <Point>
+               <coordinates>-5.411944444444445,43.1538889,717</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>La Fontona</name>
+            <description/>
+            <Point>
+               <coordinates>-5.472222222222222,43.1538889,697</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Desfiladero de los Arrudos</name>
+            <description/>
+            <Point>
+               <coordinates>-5.412222222222223,43.1419444,707</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Lago Ubales</name>
+            <description/>
+            <Point>
+               <coordinates>-5.353055555555555,43.1025,1620</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta Desfiladero de los Arrudos</name>
+            <LineString>
+               <coordinates>-5.411944444444445,43.1538889,717	-5.472222222222222,43.1538889,697	-5.412222222222223,43.1419444,707	-5.353055555555555,43.1025,1620	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Senda del Oso</name>
+         <description>Ruta por la vía verde de la Senda del Oso</description>
+         <Placemark>
+            <name>Tuñón</name>
+            <Point>
+               <coordinates>-5.980555555555556,43.2930556,203</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Cercado del Oso</name>
+            <description/>
+            <Point>
+               <coordinates>-6.005277777777778,43.2572222,197</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Desfiladero de Peñas Juntas</name>
+            <description/>
+            <Point>
+               <coordinates>-6.035555555555556,43.2305556,232</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Desfiladero de Valdecerezales</name>
+            <description/>
+            <Point>
+               <coordinates>-6.0744444444444445,43.1805556,600</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Senda del Oso</name>
+            <LineString>
+               <coordinates>-5.980555555555556,43.2930556,203	-6.005277777777778,43.2572222,197	-6.035555555555556,43.2305556,232	-6.0744444444444445,43.1805556,600	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta Acantilados del Infierno</name>
+         <description>Ruta en la que disfrutaremos de las esculturas que el mar Cantábrico ha ido esculpiendo en la roca a lo largo de los siglos</description>
+         <Placemark>
+            <name>Área recreativa de Guadamía</name>
+            <Point>
+               <coordinates>-4.990555555555556,43.4444444,8</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Acantilados de Guadamía</name>
+            <description/>
+            <Point>
+               <coordinates>-4.985277777777778,43.4591667,8</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Islote Palo Verde</name>
+            <description/>
+            <Point>
+               <coordinates>-5.0125,43.4602778,2</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Acantilados del Infierno</name>
+            <description/>
+            <Point>
+               <coordinates>-5.028333333333333,43.4608333,10</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta Acantilados del Infierno</name>
+            <LineString>
+               <coordinates>-4.990555555555556,43.4444444,8	-4.985277777777778,43.4591667,8	-5.0125,43.4602778,2	-5.028333333333333,43.4608333,10	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+   </Document>
+</kml>
