@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.564731,40.485111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -6.034367,43.562437
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "name": "León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.574474,42.596966
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "name": "Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.729053, 41.650415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.111310, 40.942176
+        ]
+      }
+    }
+	]
+}
