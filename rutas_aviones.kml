@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder>
+<name>Ranón - Madrid</name>
+<description>Ruta con turbulencias debido al retiterado mal tiempo en Asturias.</description>
+<Placemark>
+<name>Ranón</name>
+<Point>
+<coordinates>-6.034367,43.562437,125</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Leon</name>
+<description>León es un municipio​ y ciudad española ubicada en el noroeste de la península ibérica.</description>
+<Point>
+<coordinates>-5.574474,42.596966,7500</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Valladolid</name>
+<description>Valladolid es un municipio y ciudad española situada en el cuadrante noroeste de la península ibérica, capital de la provincia de Valladolid y sede de las Cortes y el Gobierno autonómicos de Castilla y León.</description>
+<Point>
+<coordinates>-4.729053,41.650415,9000</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Segovia</name>
+<description>Segovia es una ciudad y municipio español en la parte meridional de la comunidad autónoma de Castilla y León, capital de la provincia del mismo nombre.</description>
+<Point>
+<coordinates>-4.111310,40.942176,5000</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Madrid</name>
+<description>Madrid es un municipio y una ciudad de España.</description>
+<Point>
+<coordinates>-3.564731,40.485111,667</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ranón - Madrid</name>
+<LineString>
+<coordinates>-6.034367,43.562437,125	-5.574474,42.596966,7500	-4.729053,41.650415,9000	-4.111310,40.942176,5000	-3.564731,40.485111,667	</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Barcelona - Londres</name>
+<description>Ruta tranquila con tendencia a tener algunas distracciones por el largo viaje.</description>
+<Placemark>
+<name>Barcelona</name>
+<Point>
+<coordinates>2.085002,41.297433,12</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Burdeos</name>
+<description>Burdeos (en francés, Bordeaux, pronunciado /bɔʁˈdo/; en occitano, Bordèu pronunciado [buɾˈðɛw]) es una ciudad portuaria del sudoeste de Francia.</description>
+<Point>
+<coordinates>-0.594039,44.838515,9000</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Poitiers</name>
+<description>Poitiers es una ciudad y comuna situada en la Francia central, prefectura (capital) del departamento de Vienne, en la región de Nueva Aquitania.</description>
+<Point>
+<coordinates>0.342628,46.580837,9100</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dover</name>
+<description>Dover , en el condado de Kent, es el mayor puerto del canal de la Mancha en Inglaterra.</description>
+<Point>
+<coordinates>1.310258,51.128003,5600</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Londres</name>
+<description>Londres es la capital y mayor ciudad de Inglaterra y del Reino Unido.</description>
+<Point>
+<coordinates>0.049432,51.504583,11</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Barcelona - Londres</name>
+<LineString>
+<coordinates>2.085002,41.297433,12	-0.594039,44.838515,9000	0.342628,46.580837,9100	1.310258,51.128003,5600	0.049432,51.504583,11	</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Lisboa - Roma</name>
+<description>Ruta tranquila.</description>
+<Placemark>
+<name>Lisboa</name>
+<Point>
+<coordinates>-9.132128,38.774006,2</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Madrid</name>
+<description>Madrid es un municipio y una ciudad de España. La localidad, con categoría histórica de villa,​ es la capital del Estado10​ y de la Comunidad de Madrid.</description>
+<Point>
+<coordinates>-3.564731,40.485111,9000</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Valencia</name>
+<description>Valencia es un municipio​ y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana.</description>
+<Point>
+<coordinates>-0.397916,39.468686,9500</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mallorca</name>
+<description>Mallorca es una isla española situada en la parte central del archipiélago balear, en el mar Mediterráneo.</description>
+<Point>
+<coordinates>3.004836,39.673486,10000</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Roma</name>
+<description>Roma es una ciudad italiana de 3776133 habitantes, capital de la región del Lacio y de Italia.</description>
+<Point>
+<coordinates>12.504448,41.952719,13</coordinates>
+<altitudeMode>absolute</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lisboa - Roma</name>
+<LineString>
+<coordinates>-9.132128,38.774006,2	-3.564731,40.485111,9000	-0.397916,39.468686,9500	3.004836,39.673486,10000	12.504448,41.952719,13	</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document>
+</kml>

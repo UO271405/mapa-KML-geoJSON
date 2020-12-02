@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" type="text/css" href="MapaKML.css" />
+        <title>Ejercicio 13 - Tarea 1</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdn.rawgit.com/geocodezip/geoxml3/master/polys/geoxml3.js"></script>
+        <script src="MapaKML.js"></script>
+    </head>
+
+    <body>
+    <h1>Ejercicio 13 - Tarea 1</h1>
+        <section>
+            <h2>Seleccione el archivo .kml</h2>
+            <input type="file" title="archivo" onchange = "mapaKml.load(this.files);"/>
+            <div id="mapa"></div>
+        </section>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6j4mF6blrc4kZ54S6vYZ2_FpMY9VzyRU&callback=mapaKml.initMap"></script>
+    </body>
+</html>
